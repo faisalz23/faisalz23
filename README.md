@@ -32,7 +32,7 @@
 - **[VTT-next.js](https://github.com/faisalz23/VTT-next.js)** — Real-time voice-to-text dengan ringkasan AI  
 - **[magang-next.js](https://github.com/faisalz23/magang-next.js)** — Internship tasks with Next.js best practices  
 - **[Dungeon-Explorer](https://github.com/faisalz23/Dungeon-Explorer)** — Game project in C#
-- **[El_Loker](https://github.com/faisalz23/El_Loker.git)** - Capstone project aplikasi loker
+- **[El_Loker]()** - Capstone project aplikasi loker
 
 ---
 
