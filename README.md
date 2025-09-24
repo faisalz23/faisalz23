@@ -1,16 +1,19 @@
-## Hi there 👋
+# VTT-next.js — Voice to Text + Summary (Next.js)
 
-<!--
-**faisalz23/faisalz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Real-time speech-to-text dengan ringkasan AI. Fokus UX: clean, cepat, dan akses tombol Copy/Export.
 
-Here are some ideas to get you started:
+## ✨ Fitur
+- 🎙️ **Realtime transcription** (Web Audio + backend)
+- 🧠 **AI Summary**
+- 📄 **History + View Details** (download/share/delete)
+- 🎧 **Audio player** (opsional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖼 Preview
+<!-- tambahkan screenshot UI utama -->
+![Preview](docs/preview.png)
+
+## 🚀 Jalankan
+```bash
+pnpm install
+pnpm dev
+# buka http://localhost:3000
