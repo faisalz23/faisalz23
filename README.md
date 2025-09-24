@@ -23,9 +23,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 
 ---
 
@@ -33,6 +32,7 @@
 - **[VTT-next.js](https://github.com/faisalz23/VTT-next.js)** — Real-time voice-to-text dengan ringkasan AI  
 - **[magang-next.js](https://github.com/faisalz23/magang-next.js)** — Internship tasks with Next.js best practices  
 - **[Dungeon-Explorer](https://github.com/faisalz23/Dungeon-Explorer)** — Game project in C#
+- **[El_Loker](https://github.com/faisalz23/El_Loker.git)** - Capstone project aplikasi loker
 
 ---
 
