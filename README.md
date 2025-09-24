@@ -1,13 +1,13 @@
 <!-- Banner atau gambar opsional -->
 <h1 align="center">Hi, I'm Faisal 👋</h1>
 <p align="center">
-💻 Frontend Dev • 🎙 Voice to Text Enthusiast • 🧠 AI/Next.js Builder
+💻 Frontend Dev
 </p>
 
 <p align="center">
   <a href="https://github.com/faisalz23?tab=repositories">Repos</a> •
-  <a href="mailto:youremail@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
+  <a href="mailto:mubarokfaisal234@gmail.com.com">Email</a> •
+  <a href="https://www.instagram.com/faisalz23_/?__pwa=1">Instagram</a>
 </p>
 
 ---
